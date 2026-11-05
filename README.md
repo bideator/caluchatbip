@@ -1,50 +1,36 @@
+<div align="center">BIdeator
 
-<div align="center">
+Ideas into Useful Products
 
-# Bipon
+Independent Creator • Student Developer • Technology Enthusiast
 
-### Independent Builder • Student • Technology Enthusiast
+Building practical digital tools and experimenting with web technologies.
 
-Building useful digital tools, experimenting with web technologies, and learning by shipping projects.
+</div>---
 
-[![GitHub](https://img.shields.io/badge/GitHub-caluchatbip-181717?style=for-the-badge&logo=github)](https://github.com/caluchatbip)
+About Me
 
-</div>
+I'm Bipon, an independent student creator from India interested in technology, entrepreneurship, and digital products.
 
----
+- Building practical web applications
+- Exploring HTML, CSS, and JavaScript
+- Learning through real-world projects
+- Turning ideas into useful tools
 
-## About Me
+Featured Product
 
-- Building practical web applications.
-- Exploring frontend development and JavaScript.
-- Interested in technology, entrepreneurship, and digital products.
-- Learning through real-world projects.
+⚡ MeterHisab
 
-## Projects
+An independent smart meter recharge expense estimator.
 
-### MeterHisab
-A lightweight calculator designed to help users estimate APDCL smart meter expenses.
+"Open MeterHisab" (https://caluchatbip.github.io/MeterHisab/)
 
-**[Open MeterHisab](https://caluchatbip.github.io/MeterHisab/)**
+Tech Stack
 
-### OmniCatch
-An experimental project exploring AI-powered trend intelligence for creators and entrepreneurs.
-
-**[Explore Repository](https://github.com/caluchatbip/omnicatch)**
+HTML • CSS • JavaScript • GitHub Pages
 
 ---
 
-## Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
-
----
-
-<div align="center">
-
-*Learning. Building. Improving.*
+<div align="center">Learning. Building. Improving.
 
 </div>
