@@ -1,3 +1,5 @@
+![BIdeator Banner](bideator-banner.png)
+
 <div align="center">BIdeator
 
 Ideas into Useful Products
